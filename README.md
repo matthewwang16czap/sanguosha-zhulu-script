@@ -9,7 +9,7 @@ pip install opencv-python numpy pyautogui
 ```
 
 ## 使用
-提前购买好体力，然后执行脚本
+提前购买好体力，确保游戏画面没有被覆盖且分辨率一致，然后执行脚本
 ```
 python sgs_zhulu_105.py
 ```
